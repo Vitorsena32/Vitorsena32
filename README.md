@@ -15,8 +15,8 @@ I´m Vitor Sena, front end programmer, I'm currently learning and creating proje
 ## 📈 GitHub account: 
 <div align="center">
   <a href="https://github.com/pedroedues">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorsena32&theme=chartreuse-dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsena32&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=vitorsena32&theme=chartreuse-dark&show_icons=true" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsena32&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
 
