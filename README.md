@@ -4,6 +4,8 @@ I´m Vitor Sena, front end programmer, I'm currently learning and creating proje
 <br>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt= " logo-html"/>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="logo-css" />
+<img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript" alt="logo-java" />
+
 <br>
 <br>
 
